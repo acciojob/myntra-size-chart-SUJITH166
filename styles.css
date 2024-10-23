@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+	table,td,th{
+		border:1px solid black;
+		border-collapse:collapse;
+		
+	}
+#row1{
+	width:100%;
+	background-color:sandybrown;
+}
+#row2{
+	width:100%
+}
